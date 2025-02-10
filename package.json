@@ -1,6 +1,6 @@
 {
-  "name": "notheme",
-  "displayName": "No Theme",
+  "name": "nothemelight",
+  "displayName": "No Theme Light",
   "description": "Black text. White background",
   "version": "1.0.0",
   "repository": "https://github.com/sabahtalateh/bow.git",
@@ -15,7 +15,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "No Theme",
+        "label": "No Theme Light",
         "uiTheme": "vs",
         "path": "./themes/theme.json"
       }
