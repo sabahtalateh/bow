@@ -1,6 +1,6 @@
 {
-  "name": "bow",
-  "displayName": "Black on White",
+  "name": "notheme",
+  "displayName": "No Theme",
   "description": "Black text. White background",
   "version": "1.0.0",
   "repository": "https://github.com/sabahtalateh/bow.git",
@@ -15,7 +15,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Black on White",
+        "label": "No Theme",
         "uiTheme": "vs",
         "path": "./themes/theme.json"
       }
