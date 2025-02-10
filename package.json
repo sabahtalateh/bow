@@ -1,8 +1,8 @@
 {
-  "name": "nothemelight",
-  "displayName": "No Theme Light",
-  "description": "Black text. White background",
-  "version": "1.0.0",
+  "name": "lmbow",
+  "displayName": "Light Modern. Black on White",
+  "description": "Light Modern. Black text on White Background",
+  "version": "2.0.0",
   "repository": "https://github.com/sabahtalateh/bow.git",
   "publisher": "sabaken",
   "engines": {
@@ -15,7 +15,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "No Theme Light",
+        "label": "Light Modern. Black on White",
         "uiTheme": "vs",
         "path": "./themes/theme.json"
       }
