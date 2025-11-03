@@ -5,6 +5,10 @@
 	"colors": {
 		"activityBar.background": "#f3f3f3",
 		"activityBar.foreground": "#141414ad",
+		// custom
+		"activityBar.inactiveForeground": "#141414ad",
+		// custom
+		"activityBar.border": "#14141413",
 		"activityBarBadge.background": "#206595",
 		"activityBarBadge.foreground": "#f3f3f3",
 		"badge.background": "#f3f3f3",
@@ -52,7 +56,7 @@
 		"dropdown.background": "#fcfcfc",
 		"dropdown.border": "#14141413",
 		"dropdown.foreground": "#141414eb",
-		"editor.background": "#fcfcfc",
+		"editor.background": "#fafafa",
 		"editor.findMatchBackground": "#6f9ba65c",
 		"editor.findMatchHighlightBackground": "#6f9ba62e",
 		"editor.findRangeHighlightBackground": "#14141411",
