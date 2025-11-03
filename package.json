@@ -2,7 +2,7 @@
   "name": "lmbow",
   "displayName": "Light Modern. Black on White",
   "description": "Light Modern. Black text on White Background",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "repository": "https://github.com/sabahtalateh/bow.git",
   "publisher": "sabaken",
   "engines": {
@@ -18,6 +18,11 @@
         "label": "Light Modern. Black on White",
         "uiTheme": "vs",
         "path": "./themes/theme.json"
+      },
+      {
+        "label": "Cursor Light. Black on White",
+        "uiTheme": "vs",
+        "path": "./themes-cursor/theme.json"
       }
     ]
   }

@@ -154,7 +154,7 @@
 		"welcomePage.tileBackground": "#f3f3f3",
 		"widget.border": "#e5e5e5"
 	},
+	"tokenColors": [],
 	// !!! Must be enabled
 	"semanticHighlighting": true,
-	"tokenColors": [],
 }
